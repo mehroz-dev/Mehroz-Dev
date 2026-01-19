@@ -1,3 +1,8 @@
+# 👋 Hi, I'm Mehroz Zaheer. <br> [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=EE3F24&width=435&height=60&lines=Full+Stack+Developer)](https://git.io/typing-svg)
+
+<img width="6250" height="1875" alt="Linkedin Banner" src="https://github.com/user-attachments/assets/9a41935f-3786-476a-b46c-b2fd27bbe2d0" />
+
+
 # 💫 About Me:
 🔭 I’m currently working on app development, web development and backend.<br>🌱 I’m currently learning with help of codecademy.com<br>💬 Ask me about React native, android native, ios native, flutter app development, Astro, Wordpress, PHP, JavaScript, TypeScript and React.js<br>📫 How to reach me: mehrozzaheer3@gmail.com, mehroz@unicodetech.com<br>⚡ Fun fact: Love to play cricket, snooker, table tennis and cards
 
